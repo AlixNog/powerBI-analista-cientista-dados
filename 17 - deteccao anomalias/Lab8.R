@@ -42,7 +42,7 @@ plot(density(previsoes_historico$anomaly_score))
 
 # Quanto maior o anomaly score maior a chance do registro ser uma anomalia
 # Vamos definir como regra que anomaly score acima de 0.62 é uma anomalia
-indices_historico = previsoes_historico[which(previsoes_historico$anomaly_score > 0.62)]
+indices_historico = previsoes_historico[which(previsoes_historico$anomaly_score > 0.63)]
 
 # Faz o filtro
 anomalias_historico = dados_historicos_dsa[indices_historico$id, ]
