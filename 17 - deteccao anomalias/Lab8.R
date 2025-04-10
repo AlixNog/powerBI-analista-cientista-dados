@@ -1,6 +1,6 @@
-# Data Science Academy
+# alicebnog92@gmail.com
 # Microsoft Power BI Para Business Intelligence e Data Science
-# Lab 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI
+# Projeto - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI
 
 # Verifica a pasta de trabalho
 getwd()
