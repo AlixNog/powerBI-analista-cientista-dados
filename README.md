@@ -157,7 +157,6 @@ Este repositório contém os materiais de apoio e anotações referentes ao curs
 Este curso foi projetado para capacitar profissionais e entusiastas de dados a usar o **Power BI** para análises avançadas, integração com bancos de dados, aplicação de **Machine Learning** e **Inteligência Artificial**, além de preparar os alunos para aplicar técnicas de **análise de séries temporais** e **detecção de anomalias**.
 
 ---
-![image](https://github.com/user-attachments/assets/20384edd-8f5d-4a4c-9b95-074e50c7e12c)
 
 ## 📂 Repositório
 
